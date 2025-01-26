@@ -27,11 +27,12 @@
             "gospider": "/usr/local/bin/gospider",
             "sniper": "/usr/local/bin/sniper"
         },
+        "Vulnerability scanning": {
+            "bbot": "/usr/local/bin/bbot",
+            "nuclei" "/usr/local/bin/bbot"
+        }, 
         "exploit": {
             "metasploit": "/usr/local/bin/msfconsole"
-        }
+        },
     },
-    "bbot": {
-        "target": "example.com"
-    }
 }
