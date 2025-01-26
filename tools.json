@@ -1,0 +1,37 @@
+{
+    "tools": {
+        "recon": {
+            "assetfinder": "/usr/local/bin/assetfinder",
+            "subfinder": "/usr/local/bin/subfinder",
+            "amass": "/usr/local/bin/amass",
+            "dnsx": "/usr/local/bin/dnsx",
+            "httpx": "/usr/local/bin/httpx",
+            "hakrawler": "/usr/local/bin/hakrawler",
+            "gospider": "/usr/local/bin/gospider",
+            "sniper": "/usr/local/bin/sniper"
+        },
+        "scanning": {
+            "nmap": "/usr/bin/nmap",
+            "rustscan": "/usr/local/bin/rustscan",
+            "naabu": "/usr/local/bin/naabu",
+            "nuclei": "/usr/local/bin/nuclei",
+            "sqlmap": "/usr/local/bin/sqlmap",
+            "arjun": "/usr/local/bin/arjun",
+            "xssstrike": "/usr/local/bin/xssstrike",
+            "ffuf": "/usr/local/bin/ffuf",
+            "paramspider": "/usr/local/bin/paramspider",
+            "cariddi": "/usr/local/bin/cariddi"
+        },
+        "crawling": {
+            "hakrawler": "/usr/local/bin/hakrawler",
+            "gospider": "/usr/local/bin/gospider",
+            "sniper": "/usr/local/bin/sniper"
+        },
+        "exploit": {
+            "metasploit": "/usr/local/bin/msfconsole"
+        }
+    },
+    "bbot": {
+        "target": "example.com"
+    }
+}
