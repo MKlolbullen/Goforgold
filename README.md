@@ -40,7 +40,7 @@ This project is designed to streamline the workflow of bug bounty hunters and pe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/bugbounty-automation-tool.git
+   git clone https://github.com/MKlolbullen/bugbounty-automation-tool.git
    cd bugbounty-automation-tool
    ```
 
